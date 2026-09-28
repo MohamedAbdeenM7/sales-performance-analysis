@@ -420,8 +420,6 @@ Examples of insight categories include:
 - Relationship between sales and profit
 - Shipping performance
 
-> Insights should be based on the actual analysis results rather than assumptions.
-
 ---
 
 ## 🚀 Skills Demonstrated
