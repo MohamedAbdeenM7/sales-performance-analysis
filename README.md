@@ -284,7 +284,7 @@ AVERAGEX(
 
 ---
 
-# 📊 Dashboard Structure
+## 📊 Dashboard Structure
 
 ## Page 1 — Executive Overview
 
@@ -299,7 +299,7 @@ The Executive Overview provides a high-level view of business performance.
 - Total Customers
 - Average Order Value
 
-### Visualizations
+### Executive Overview Visualizations
 
 - Sales Trend Over Time
 - Sales by Category
@@ -322,7 +322,7 @@ The Executive Overview provides a high-level view of business performance.
 
 This page focuses on product and category performance.
 
-### Visualizations
+### Product Analysis Visualizations
 
 - Top 10 Products by Sales
 - Top 10 Products by Profit
@@ -337,7 +337,7 @@ The purpose is to identify high-performing products and categories and compare r
 
 This page focuses on customer and geographic performance.
 
-### Visualizations
+### Customer & Regional Analysis Visualizations
 
 - Top Customers
 - Sales by Segment
@@ -443,7 +443,7 @@ This project demonstrates practical experience in:
 
 ## 👤 Author
 
-**Mohamed Abdeen**
+### Mohamed Abdeen
 
 Data Analyst | Power BI Developer
 
